@@ -1,0 +1,63 @@
+
+TomTomDB = {
+	["profileKeys"] = {
+		["Montagnello - Nemesis"] = "Default",
+		["Crothug - Nemesis"] = "Default",
+		["Grokrim - Nemesis"] = "Default",
+		["Sburodragus - Nemesis"] = "Default",
+		["Sburomago - Nemesis"] = "Default",
+		["Eritriel - Nemesis"] = "Default",
+		["Erdepletator - Nemesis"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["arrow"] = {
+				["position"] = {
+					"TOP", -- [1]
+					nil, -- [2]
+					"TOP", -- [3]
+					-1.665879011154175, -- [4]
+					-56.53990936279297, -- [5]
+				},
+			},
+			["block"] = {
+				["enable"] = false,
+				["position"] = {
+					"RIGHT", -- [1]
+					nil, -- [2]
+					"RIGHT", -- [3]
+					0, -- [4]
+					95.39704132080078, -- [5]
+				},
+			},
+		},
+	},
+}
+TomTomWaypoints = nil
+TomTomWaypointsM = {
+	["profileKeys"] = {
+		["Montagnello - Nemesis"] = "Montagnello - Nemesis",
+		["Crothug - Nemesis"] = "Crothug - Nemesis",
+		["Grokrim - Nemesis"] = "Grokrim - Nemesis",
+		["Sburodragus - Nemesis"] = "Sburodragus - Nemesis",
+		["Sburomago - Nemesis"] = "Sburomago - Nemesis",
+		["Eritriel - Nemesis"] = "Eritriel - Nemesis",
+		["Erdepletator - Nemesis"] = "Erdepletator - Nemesis",
+	},
+	["profiles"] = {
+		["Montagnello - Nemesis"] = {
+		},
+		["Crothug - Nemesis"] = {
+		},
+		["Grokrim - Nemesis"] = {
+		},
+		["Sburodragus - Nemesis"] = {
+		},
+		["Sburomago - Nemesis"] = {
+		},
+		["Eritriel - Nemesis"] = {
+		},
+		["Erdepletator - Nemesis"] = {
+		},
+	},
+}

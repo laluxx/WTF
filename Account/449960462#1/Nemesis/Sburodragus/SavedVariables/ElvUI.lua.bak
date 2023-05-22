@@ -1,0 +1,14 @@
+
+ElvCharacterDB = {
+	["ConvertKeybindings"] = true,
+	["ChatEditHistory"] = {
+		"/ec", -- [1]
+		"/weakauras", -- [2]
+		"/sit", -- [3]
+		"/reload", -- [4]
+		"/reloadui", -- [5]
+		"/wa", -- [6]
+	},
+	["ChatHistoryLog"] = {
+	},
+}

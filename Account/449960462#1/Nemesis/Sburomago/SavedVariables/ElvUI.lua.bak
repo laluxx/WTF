@@ -1,0 +1,30 @@
+
+ElvCharacterDB = {
+	["ConvertKeybindings"] = true,
+	["ChatEditHistory"] = {
+		"/p OMG", -- [1]
+		"/g ho comprato |cff0070dd|Hitem:204710::::::::70:63:::::::::|h[Shadowflame-Tempered Armor Patch |A:Professions-ChatIcon-Quality-Tier3:17:18::1|a]|h|r come faccio ad usarlo ?", -- [2]
+		"/g in teoria ho comprato tutto", -- [3]
+		"/p hi guys :)", -- [4]
+		"/p hello all :)", -- [5]
+		"/cw Feridbathory-Nemesis wake up", -- [6]
+		"/cw Feridbathory-Nemesis u think is a probelm about my rotation ?", -- [7]
+		"/cw Ejryel-Drak'thul u think it was a problem about my rotation ?", -- [8]
+		"/p i died", -- [9]
+		"/p lol", -- [10]
+		"/p im blind", -- [11]
+		"/p my avaragedps is usually 25k lol", -- [12]
+		"/p i tried", -- [13]
+		"/p still up to |cffa335ee|Hkeystone:180653:251:14:10:134:7:0|h[Keystone: The Underrot (14)]|h|r?", -- [14]
+		"/p hi :)", -- [15]
+		"/p sry crashed", -- [16]
+		"/p sryyyyyy", -- [17]
+		"/p 4w555555sryyyy", -- [18]
+		"/p 2m", -- [19]
+		"/p i inted so bad lol", -- [20]
+		"/p sorry", -- [21]
+		"/p i need it too", -- [22]
+	},
+	["ChatHistoryLog"] = {
+	},
+}

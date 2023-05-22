@@ -1,0 +1,21 @@
+
+MDTGuideDB = {
+	["route"] = {
+		["path"] = "",
+		["kills"] = {
+		},
+	},
+	["options"] = {
+		["fade"] = false,
+		["height"] = 200,
+		["route"] = false,
+		["zoomMax"] = 1,
+		["widthSide"] = 200,
+		["zoomMin"] = 1,
+		["version"] = 1,
+		["hide"] = false,
+	},
+	["active"] = false,
+}
+MDTGuideActive = nil
+MDTGuideOptions = nil

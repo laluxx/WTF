@@ -1,0 +1,469 @@
+
+Bartender4DB = {
+	["namespaces"] = {
+		["StatusTrackingBar"] = {
+			["profiles"] = {
+				["Sburomago - Nemesis"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 62.00000762939453,
+						["x"] = 381.0000305175781,
+						["point"] = "BOTTOMLEFT",
+					},
+				},
+				["Eritriel - Nemesis"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 62.00000762939453,
+						["x"] = 381.0000305175781,
+						["point"] = "BOTTOMLEFT",
+					},
+				},
+				["Montagnello - Nemesis"] = {
+					["enabled"] = true,
+					["position"] = {
+						["y"] = 62.00000762939453,
+						["x"] = 381.0000305175781,
+						["point"] = "BOTTOMLEFT",
+					},
+					["version"] = 3,
+				},
+			},
+		},
+		["QueueStatus"] = {
+			["profiles"] = {
+				["Sburomago - Nemesis"] = {
+					["position"] = {
+						["y"] = 40.5,
+						["x"] = -271,
+					},
+				},
+				["Eritriel - Nemesis"] = {
+					["position"] = {
+						["y"] = 40.5,
+						["x"] = -271,
+					},
+				},
+				["Montagnello - Nemesis"] = {
+					["position"] = {
+						["y"] = 40.5,
+						["x"] = -271,
+					},
+					["version"] = 3,
+				},
+			},
+		},
+		["ActionBars"] = {
+			["profiles"] = {
+				["Sburomago - Nemesis"] = {
+					["actionbars"] = {
+						{
+							["showgrid"] = true,
+							["WoW10Layout"] = true,
+							["position"] = {
+								["y"] = 82,
+								["x"] = -285,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["WoW10Layout"] = true,
+						}, -- [2]
+						{
+							["flyoutDirection"] = "LEFT",
+							["rows"] = 12,
+							["WoW10Layout"] = true,
+							["position"] = {
+								["y"] = 193,
+								["x"] = -54,
+								["point"] = "RIGHT",
+							},
+						}, -- [3]
+						{
+							["flyoutDirection"] = "LEFT",
+							["rows"] = 12,
+							["WoW10Layout"] = true,
+							["position"] = {
+								["y"] = 193,
+								["x"] = -104,
+								["point"] = "RIGHT",
+							},
+						}, -- [4]
+						{
+							["WoW10Layout"] = true,
+							["position"] = {
+								["y"] = 184,
+								["x"] = -285,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["WoW10Layout"] = true,
+							["position"] = {
+								["y"] = 133,
+								["x"] = -285,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+							["WoW10Layout"] = true,
+						}, -- [7]
+						{
+							["WoW10Layout"] = true,
+						}, -- [8]
+						{
+							["WoW10Layout"] = true,
+						}, -- [9]
+						{
+							["WoW10Layout"] = true,
+						}, -- [10]
+						[14] = {
+							["WoW10Layout"] = true,
+						},
+						[13] = {
+							["WoW10Layout"] = true,
+						},
+						[15] = {
+							["WoW10Layout"] = true,
+						},
+					},
+				},
+				["Eritriel - Nemesis"] = {
+					["actionbars"] = {
+						{
+							["position"] = {
+								["y"] = 82,
+								["x"] = -285,
+								["point"] = "BOTTOM",
+							},
+							["WoW10Layout"] = true,
+							["showgrid"] = true,
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["WoW10Layout"] = true,
+						}, -- [2]
+						{
+							["WoW10Layout"] = true,
+							["rows"] = 12,
+							["flyoutDirection"] = "LEFT",
+							["position"] = {
+								["y"] = 193,
+								["x"] = -54,
+								["point"] = "RIGHT",
+							},
+						}, -- [3]
+						{
+							["WoW10Layout"] = true,
+							["rows"] = 12,
+							["flyoutDirection"] = "LEFT",
+							["position"] = {
+								["y"] = 193,
+								["x"] = -104,
+								["point"] = "RIGHT",
+							},
+						}, -- [4]
+						{
+							["WoW10Layout"] = true,
+							["position"] = {
+								["y"] = 184,
+								["x"] = -285,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["WoW10Layout"] = true,
+							["position"] = {
+								["y"] = 133,
+								["x"] = -285,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+							["WoW10Layout"] = true,
+						}, -- [7]
+						{
+							["WoW10Layout"] = true,
+						}, -- [8]
+						{
+							["WoW10Layout"] = true,
+						}, -- [9]
+						{
+							["WoW10Layout"] = true,
+						}, -- [10]
+						[14] = {
+							["WoW10Layout"] = true,
+						},
+						[13] = {
+							["WoW10Layout"] = true,
+						},
+						[15] = {
+							["WoW10Layout"] = true,
+						},
+					},
+				},
+				["Montagnello - Nemesis"] = {
+					["actionbars"] = {
+						{
+							["showgrid"] = true,
+							["position"] = {
+								["y"] = 82,
+								["x"] = -285,
+								["point"] = "BOTTOM",
+							},
+							["WoW10Layout"] = true,
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["WoW10Layout"] = true,
+						}, -- [2]
+						{
+							["flyoutDirection"] = "LEFT",
+							["rows"] = 12,
+							["position"] = {
+								["y"] = 193,
+								["x"] = -54,
+								["point"] = "RIGHT",
+							},
+							["WoW10Layout"] = true,
+						}, -- [3]
+						{
+							["flyoutDirection"] = "LEFT",
+							["rows"] = 12,
+							["position"] = {
+								["y"] = 193,
+								["x"] = -104,
+								["point"] = "RIGHT",
+							},
+							["WoW10Layout"] = true,
+						}, -- [4]
+						{
+							["position"] = {
+								["y"] = 184,
+								["x"] = -285,
+								["point"] = "BOTTOM",
+							},
+							["WoW10Layout"] = true,
+						}, -- [5]
+						{
+							["position"] = {
+								["y"] = 133,
+								["x"] = -285,
+								["point"] = "BOTTOM",
+							},
+							["WoW10Layout"] = true,
+						}, -- [6]
+						{
+							["WoW10Layout"] = true,
+						}, -- [7]
+						{
+							["WoW10Layout"] = true,
+						}, -- [8]
+						{
+							["WoW10Layout"] = true,
+						}, -- [9]
+						{
+							["WoW10Layout"] = true,
+						}, -- [10]
+						[14] = {
+							["WoW10Layout"] = true,
+						},
+						[13] = {
+							["WoW10Layout"] = true,
+						},
+						[15] = {
+							["WoW10Layout"] = true,
+						},
+					},
+				},
+			},
+		},
+		["LibDualSpec-1.0"] = {
+		},
+		["ExtraActionBar"] = {
+			["profiles"] = {
+				["Montagnello - Nemesis"] = {
+					["position"] = {
+						["y"] = -252.4999389648438,
+						["x"] = -63.50006103515625,
+						["point"] = "CENTER",
+					},
+					["version"] = 3,
+				},
+			},
+		},
+		["MicroMenu"] = {
+			["profiles"] = {
+				["Sburomago - Nemesis"] = {
+					["position"] = {
+						["y"] = 34,
+						["x"] = -229,
+						["point"] = "BOTTOMRIGHT",
+					},
+				},
+				["Eritriel - Nemesis"] = {
+					["position"] = {
+						["y"] = 34,
+						["x"] = -229,
+						["point"] = "BOTTOMRIGHT",
+					},
+				},
+				["Montagnello - Nemesis"] = {
+					["position"] = {
+						["y"] = 34,
+						["x"] = -229,
+						["point"] = "BOTTOMRIGHT",
+					},
+				},
+			},
+		},
+		["BagBar"] = {
+			["profiles"] = {
+				["Sburomago - Nemesis"] = {
+					["position"] = {
+						["y"] = 74,
+						["x"] = -212,
+						["point"] = "BOTTOMRIGHT",
+					},
+				},
+				["Eritriel - Nemesis"] = {
+					["position"] = {
+						["y"] = 74,
+						["x"] = -212,
+						["point"] = "BOTTOMRIGHT",
+					},
+				},
+				["Montagnello - Nemesis"] = {
+					["position"] = {
+						["y"] = 74,
+						["x"] = -212,
+						["point"] = "BOTTOMRIGHT",
+					},
+				},
+			},
+		},
+		["BlizzardArt"] = {
+			["profiles"] = {
+				["Sburomago - Nemesis"] = {
+					["enabled"] = true,
+					["artLayout"] = "MODERN",
+					["version"] = 3,
+					["position"] = {
+						["y"] = 87,
+						["x"] = -288.5,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Eritriel - Nemesis"] = {
+					["enabled"] = true,
+					["position"] = {
+						["y"] = 87,
+						["x"] = -288.5,
+						["point"] = "BOTTOM",
+					},
+					["version"] = 3,
+					["artLayout"] = "MODERN",
+				},
+				["Montagnello - Nemesis"] = {
+					["enabled"] = true,
+					["artLayout"] = "MODERN",
+					["position"] = {
+						["y"] = 87,
+						["x"] = -288.5,
+						["point"] = "BOTTOM",
+					},
+					["version"] = 3,
+				},
+			},
+		},
+		["StanceBar"] = {
+			["profiles"] = {
+				["Montagnello - Nemesis"] = {
+					["position"] = {
+						["y"] = 168,
+						["x"] = -285,
+						["point"] = "BOTTOM",
+						["scale"] = 1,
+					},
+				},
+			},
+		},
+		["PetBar"] = {
+			["profiles"] = {
+				["Sburomago - Nemesis"] = {
+					["position"] = {
+						["y"] = 168,
+						["x"] = -285,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Eritriel - Nemesis"] = {
+					["position"] = {
+						["y"] = 168,
+						["x"] = -285,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Montagnello - Nemesis"] = {
+					["position"] = {
+						["y"] = 168,
+						["x"] = -41,
+						["point"] = "BOTTOM",
+					},
+				},
+			},
+		},
+		["Vehicle"] = {
+			["profiles"] = {
+				["Sburomago - Nemesis"] = {
+					["position"] = {
+						["y"] = 153,
+						["x"] = -337,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Eritriel - Nemesis"] = {
+					["position"] = {
+						["y"] = 153,
+						["x"] = -337,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Montagnello - Nemesis"] = {
+					["position"] = {
+						["y"] = 183.9999847412109,
+						["x"] = -352.4998779296875,
+						["point"] = "BOTTOM",
+					},
+					["version"] = 3,
+				},
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Sburomago - Nemesis"] = "Sburomago - Nemesis",
+		["Eritriel - Nemesis"] = "Eritriel - Nemesis",
+		["Montagnello - Nemesis"] = "Montagnello - Nemesis",
+	},
+	["profiles"] = {
+		["Sburomago - Nemesis"] = {
+			["focuscastmodifier"] = false,
+			["blizzardVehicle"] = true,
+			["outofrange"] = "hotkey",
+		},
+		["Eritriel - Nemesis"] = {
+			["focuscastmodifier"] = false,
+			["blizzardVehicle"] = true,
+			["outofrange"] = "hotkey",
+		},
+		["Montagnello - Nemesis"] = {
+			["blizzardVehicle"] = true,
+			["snapping"] = false,
+			["focuscastmodifier"] = false,
+			["outofrange"] = "hotkey",
+		},
+	},
+}

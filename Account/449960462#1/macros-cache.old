@@ -1,0 +1,27 @@
+VER 3 0000000000000005 "bacio" "136215"
+/bacia
+END
+VER 3 0000000000000002 "balla" "901300"
+/balla
+END
+VER 3 000000000000000A "Decursive" "INV_MISC_QUESTIONMARK"
+/stopcasting
+/cast [@mouseover,nomod,exists] Rimozione Corruzione;  [@mouseover,exists,mod:ctrl] Ciclone; [@mouseover,exists,mod:shift] Rimozione Corruzione
+END
+VER 3 0000000000000009 "mountspecial" "136103"
+/mountspecial
+END
+VER 3 0000000000000007 "odnog" "INV_MISC_QUESTIONMARK"
+/tar Ivory Cloud Serpent
+END
+VER 3 0000000000000003 "quitta " "252184"
+/camp
+END
+VER 3 000000000000000B "RANDOMTOY" "INV_MISC_QUESTIONMARK"
+#showtooltip Never Ending Toy Chest
+/randomtoy check
+/cast Transmorpher Beacon
+END
+VER 3 0000000000000004 "sputa" "1506795"
+/sputa
+END

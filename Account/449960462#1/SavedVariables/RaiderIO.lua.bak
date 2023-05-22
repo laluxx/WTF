@@ -1,0 +1,16 @@
+
+RaiderIO_Config = {
+}
+RaiderIO_LastCharacter = "eu-Sburomago-nemesis"
+RaiderIO_MissingCharacters = {
+	["eu-Nikiforos-silvermoon"] = true,
+	["eu-party2-nemesis"] = true,
+	["eu-Feldaddy-silvermoon"] = true,
+	["eu-Sburomago-nemesis"] = true,
+	["eu-Alexalighton-silvermoon"] = true,
+}
+RaiderIO_MissingServers = {
+}
+RaiderIO_CachedRuns = nil
+RaiderIO_RWF = {
+}

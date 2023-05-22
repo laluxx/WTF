@@ -1,0 +1,28 @@
+
+SimulationCraftDB = {
+	["profileKeys"] = {
+		["Montagnello - Nemesis"] = "Montagnello - Nemesis",
+		["Crothug - Nemesis"] = "Crothug - Nemesis",
+		["Grokrim - Nemesis"] = "Grokrim - Nemesis",
+		["Sburodragus - Nemesis"] = "Sburodragus - Nemesis",
+		["Sburomago - Nemesis"] = "Sburomago - Nemesis",
+		["Eritriel - Nemesis"] = "Eritriel - Nemesis",
+		["Erdepletator - Nemesis"] = "Erdepletator - Nemesis",
+	},
+	["profiles"] = {
+		["Montagnello - Nemesis"] = {
+		},
+		["Crothug - Nemesis"] = {
+		},
+		["Grokrim - Nemesis"] = {
+		},
+		["Sburodragus - Nemesis"] = {
+		},
+		["Sburomago - Nemesis"] = {
+		},
+		["Eritriel - Nemesis"] = {
+		},
+		["Erdepletator - Nemesis"] = {
+		},
+	},
+}

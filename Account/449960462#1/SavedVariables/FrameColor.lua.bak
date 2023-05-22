@@ -1,0 +1,15 @@
+
+FrameColorDB = {
+	["profileKeys"] = {
+		["Montagnello - Nemesis"] = "Default",
+		["Crothug - Nemesis"] = "Default",
+		["Sburodragus - Nemesis"] = "Default",
+		["Sburomago - Nemesis"] = "Default",
+		["Eritriel - Nemesis"] = "Default",
+		["Grokrim - Nemesis"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

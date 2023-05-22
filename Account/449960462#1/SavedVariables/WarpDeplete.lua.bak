@@ -1,0 +1,19 @@
+
+WarpDepleteDB = {
+	["profileKeys"] = {
+		["Montagnello - Nemesis"] = "Default",
+		["Crothug - Nemesis"] = "Default",
+		["Grokrim - Nemesis"] = "Default",
+		["Sburodragus - Nemesis"] = "Default",
+		["Sburomago - Nemesis"] = "Default",
+		["Eritriel - Nemesis"] = "Default",
+		["Erdepletator - Nemesis"] = "Default",
+	},
+	["global"] = {
+		["mdtAlertShown"] = true,
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

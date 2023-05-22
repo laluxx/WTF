@@ -1,0 +1,11 @@
+
+RealUI_InventoryDB = {
+	["profileKeys"] = {
+		["Sburomago - Nemesis"] = "Default",
+		["Eritriel - Nemesis"] = "Default",
+		["Montagnello - Nemesis"] = "Default",
+	},
+	["global"] = {
+		["version"] = 4,
+	},
+}

@@ -1,0 +1,23 @@
+
+RavenDB = {
+	["global"] = {
+		["userDefinedMessage"] = "User-defined function not valid",
+	},
+	["profileKeys"] = {
+		["Sburomago - Nemesis"] = "Sburomago - Nemesis",
+		["Eritriel - Nemesis"] = "Eritriel - Nemesis",
+		["Montagnello - Nemesis"] = "Montagnello - Nemesis",
+	},
+	["profiles"] = {
+		["Sburomago - Nemesis"] = {
+		},
+		["Eritriel - Nemesis"] = {
+			["Conditions"] = {
+				["DEMONHUNTER"] = {
+				},
+			},
+		},
+		["Montagnello - Nemesis"] = {
+		},
+	},
+}

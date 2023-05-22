@@ -1,0 +1,18 @@
+
+RealUI_TooltipsDB = {
+	["profileKeys"] = {
+		["Sburomago - Nemesis"] = "Default",
+		["Eritriel - Nemesis"] = "Default",
+		["Montagnello - Nemesis"] = "Default",
+	},
+	["global"] = {
+		["questCache"] = {
+			[66133] = {
+				["progress"] = 0,
+			},
+			[65958] = {
+				["progress"] = 0,
+			},
+		},
+	},
+}
